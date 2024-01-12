@@ -40,5 +40,16 @@
       "title": "Generic Fresh Table"
     }
   ],
-  "photos": []
+  "photos": [
+    {
+      "id": "f420",
+      "albumId": "805c",
+      "url": "https://loremflickr.com/150/150/abstract?lock=6123655526350848"
+    },
+    {
+      "id": "c974",
+      "albumId": "805c",
+      "url": "https://loremflickr.com/640/480?lock=6597362313068544"
+    }
+  ]
 }
