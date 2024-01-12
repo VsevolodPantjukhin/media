@@ -15,19 +15,9 @@
   ],
   "albums": [
     {
-      "id": "dd5d",
-      "userId": 1,
-      "title": "Modern Rubber Cheese"
-    },
-    {
       "id": "805c",
       "userId": 1,
       "title": "Incredible Wooden Mouse"
-    },
-    {
-      "id": "422d",
-      "userId": 1,
-      "title": "Handcrafted Soft Shoes"
     }
   ],
   "photos": []
